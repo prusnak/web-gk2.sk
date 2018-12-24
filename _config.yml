@@ -9,7 +9,7 @@ title:               Pavol Rusnak
 tagline:             '#cypherpunk #hacker #openhw #privacy #bitcoin #newmediaart'
 description:         'Pavol Rusnak'
 url:                 https://gk2.sk
-baseurl:             https://gk2.sk
+baseurl:             ''
 paginate:            10
 
 author:
